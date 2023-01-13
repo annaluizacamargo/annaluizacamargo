@@ -1,11 +1,8 @@
 # Olá, me chamo *_Anna Luiza de Camargo_*
 
-É um prazer recebê-lo(a) aqui. Tenho 22 anos, ex enfermeira e desenvolvedora front-end em evolução contínua, atualmente com foco em **HTML**, **CSS** e **JavaScript**, me descobrindo neste vasto universo da Tecnologia.
+É um prazer recebê-lo(a) aqui. Sou desenvolvedora front-end em evolução contínua, atualmente com foco em **HTML**, **CSS** e **JavaScript**, me descobrindo neste vasto universo da Tecnologia.
 
-*Aspie e com AH/SD acadêmica, sou muito dedicada e adoro aprender novas coisas que estão dentro do meu hiperfoco. Já trabalhei na área da saúde, mas hoje sigo o que faz meu coração bater mais forte. Adoro assistir filmes e séries, resolver cubo mágico e jogar Sudoku e Nonogram no meu tempo livre.*
-
-## :hibiscus: Minhas estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&theme=dracula)](https://github.com/annaluizacamargo/github-readme-stats)
+*Aspie e com AH/SD acadêmica, sou muito dedicada e adoro aprender novas coisas que estão dentro do meu hiperfoco. Já trabalhei na área da saúde como Enfermeira e Tutora Externa de Enfermagem, mas hoje sigo o que faz meu coração bater mais forte, que é a programação. Adoro assistir filmes e séries, resolver cubo mágico e jogar Sudoku e Nonogram no meu tempo livre.*
 <br>
 
 ## :hibiscus: Minhas Skill's e forma de contato
