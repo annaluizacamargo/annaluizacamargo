@@ -5,6 +5,8 @@
 *Aspie e com AH/SD acadêmica, sou muito dedicada e adoro aprender novas coisas que estão dentro do meu hiperfoco. Já trabalhei na área da saúde como Enfermeira e Tutora Externa de Enfermagem, mas hoje sigo o que faz meu coração bater mais forte, que é a programação. Adoro assistir filmes e séries, resolver cubo mágico e jogar Sudoku e Nonogram no meu tempo livre.*
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula)
+
 ## :hibiscus: Minhas Skill's e forma de contato
 <div style="display: inline_block">
   <img align="left" alt="Anna-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/707090_N2E3YlxN.png"><br>
