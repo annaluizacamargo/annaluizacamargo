@@ -6,6 +6,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&theme=dracula)
 
 ## :hibiscus: Minhas Skill's e forma de contato
 <div style="display: inline_block">
