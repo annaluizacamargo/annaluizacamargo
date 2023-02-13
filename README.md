@@ -4,16 +4,19 @@
 <br>
 
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&theme=dracula)
+  <a href="https://github.com/annaluizacamargo">
+    <img height="150em" src="https://streak-stats.demolab.com/?user=annaluizacamargo&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&langs_count=7&theme=dracula"/>
+    
   ### [✨ Acesse meus projetos aqui ✨](https://github.com/stars/annaluizacamargo/lists/projetos)
 </div>
 <br>
 
 ## 🛠️ Minhas Skill's
 >**ReactJS • JavaScript • HTML • CSS • Figma • Git**
-
+<a href="https://github.com/annaluizacamargo">
+ 
 ![logo-react 1](https://user-images.githubusercontent.com/100868704/218358133-7e5bcdf6-c57f-4c8b-9c32-ce1417ea5b93.svg)
 ![brand-javascript 1](https://user-images.githubusercontent.com/100868704/218358267-b46e966a-3fc6-439b-ac1e-caf61b086388.svg)
 ![html5 1](https://user-images.githubusercontent.com/100868704/218358278-b5ecd208-b091-4442-989d-72bc7d0ef528.svg)
@@ -25,6 +28,7 @@
 
 ## 🧠 Sobre mim e Forma de contato
 <div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/">
   <img align="left" alt="Anna-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100868704/218355863-c68ac6a5-f05f-47cc-adf9-034ee57e0537.png">
 </div>
 <div>
@@ -45,4 +49,8 @@
   </div>
   <br><br>
   
+   <div align="center">
+ <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/">
+   
 ![Desktop - 2 (2)](https://user-images.githubusercontent.com/100868704/218355016-123a45a9-ec26-4b6b-8eed-ae2a8c21ce0d.svg)
+     </div>
