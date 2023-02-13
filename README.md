@@ -10,8 +10,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
 <br><br>
+  
+  
 ## 🛠️ Minhas Skill's
   > **ReactJS • JavaScript • HTML • CSS • Figma • Git**
 <div>
@@ -24,15 +25,15 @@
   ![figma-logo-light 1](https://user-images.githubusercontent.com/100868704/218358295-526264d2-f303-445b-8e7f-814944c13f9a.svg)
   ![git 1](https://user-images.githubusercontent.com/100868704/218358301-256ca99d-94f8-4c54-bcf2-233062c0685e.svg)
 </div>
-<br><br>
+<br>
 
 
-## 🧠 Sobre mim e Forma de contato
+## 🧠 Sobre mim
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/">
   <img align="left" alt="Anna-pic" height="150em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100868704/218355863-c68ac6a5-f05f-47cc-adf9-034ee57e0537.png">
 </div>
-
+  
 <div>
   • Aspie e com AH/SD acadêmica, sou muito dedicada e adoro aprender novas coisas que estão dentro do meu hiperfoco.
   <br>
@@ -40,10 +41,10 @@
   <br>
   • Adoro assistir filmes e séries, resolver cubo mágico e jogar Sudoku e Nonogram no meu tempo livre.
 <div>
-<br><br>
+
+
+<br><br><br><br>
 
 ## 💻 Forma de contato
-<br>
-
 > <div align="center"><a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;" target="_blank"></a>  <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px" target="_blank"></a> <a href="https://www.instagram.com/annaluiza.711/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:50px;" target="_blank"></a> </div>
 > <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://user-images.githubusercontent.com/100868704/218355016-123a45a9-ec26-4b6b-8eed-ae2a8c21ce0d.svg" style="border-radius:20px;"></a>
