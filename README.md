@@ -3,11 +3,13 @@
 É um prazer recebê-lo(a) aqui. Sou desenvolvedora Front-end, atuando com ênfase em desenvolvendo sites web visando atingir o melhor resultado possível atrelado com meus conhecimentos de UX Design, buscando novos desafios e melhorar minhas soft e hard skills, prezando por um bom ambiente colaborativo, me descobrindo neste vasto universo da Tecnologia.
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&theme=dracula)
-### [✨ Acesse meus projetos aqui](https://github.com/stars/annaluizacamargo/lists/projetos)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&theme=dracula)
+  ### [✨ Acesse meus projetos aqui ✨](https://github.com/stars/annaluizacamargo/lists/projetos)
+</div>
 <br>
-
 
 ## 🛠️ Minhas Skill's
 >**ReactJS • JavaScript • HTML • CSS • Figma • Git**
@@ -21,7 +23,7 @@
 <br><br>
 
 
-## 🧠 Sobre mim
+## 🧠 Sobre mim e Forma de contato
 <div style="display: inline_block">
   <img align="left" alt="Anna-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100868704/218355863-c68ac6a5-f05f-47cc-adf9-034ee57e0537.png">
 </div>
@@ -36,10 +38,11 @@
 
 
 ## 💻 Forma de contato
-<div>
-  <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/annaluiza.711/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/annaluiza.711/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  </div>
+  <br><br>
   
 ![Desktop - 2 (2)](https://user-images.githubusercontent.com/100868704/218355016-123a45a9-ec26-4b6b-8eed-ae2a8c21ce0d.svg)
