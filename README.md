@@ -2,12 +2,11 @@
 
 É um prazer recebê-lo(a) aqui. Sou desenvolvedora Front-end, atuando com ênfase em desenvolvendo sites web visando atingir o melhor resultado possível atrelado com meus conhecimentos de UX Design, buscando novos desafios e melhorar minhas soft e hard skills, prezando por um bom ambiente colaborativo, me descobrindo neste vasto universo da Tecnologia.
 <br><br>
-
-
-### [✨ Acesse meus projetos aqui](https://github.com/stars/annaluizacamargo/lists/projetos)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluizacamargo&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaluizacamargo&layout=compact&theme=dracula)
-<br><br>
+
+### [✨ Acesse meus projetos clicando aqui](https://github.com/stars/annaluizacamargo/lists/projetos)
+<br>
 
 
 ## 🛠️ Minhas Skill's
@@ -19,8 +18,6 @@
 ![logo-css3 1](https://user-images.githubusercontent.com/100868704/218358284-7b9e67aa-0a83-4bc6-957a-019a23ff822b.svg)
 ![figma-logo-light 1](https://user-images.githubusercontent.com/100868704/218358295-526264d2-f303-445b-8e7f-814944c13f9a.svg)
 ![git 1](https://user-images.githubusercontent.com/100868704/218358301-256ca99d-94f8-4c54-bcf2-233062c0685e.svg)
-
-
 <br><br>
 
 
