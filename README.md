@@ -14,7 +14,8 @@
   
   
 ## 🛠️ Minhas Skill's
-  > **ReactJS • JavaScript • HTML • CSS • Figma • Git • PHP • MySQL**
+  > **ReactJS • JavaScript • HTML • CSS • Figma • Git**
+  > Em estudo: PHP • MySQL
 <div>
   <a href="https://github.com/annaluizacamargo">
 
