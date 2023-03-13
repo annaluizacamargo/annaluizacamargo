@@ -1,6 +1,6 @@
 # Olá, me chamo *_Anna Luiza de Camargo Fistarol_*
 
-É um prazer recebê-lo(a) aqui. Sou programadora / desenvolvedora, atuando com ênfase em desenvolvendo sites web visando atingir o melhor resultado possível atrelado com meus conhecimentos de UX Design, buscando novos desafios e melhorar minhas soft e hard skills, prezando por um bom ambiente colaborativo, me descobrindo neste vasto universo da Tecnologia.
+É um prazer recebê-lo(a) aqui. Sou programadora / desenvolvedora, atuando com ênfase em desenvolvendo sites web visando atingir o melhor resultado possível atrelado com meus conhecimentos de UX Design, buscando novos desafios e melhorar minhas soft e hard skills, prezando por um bom ambiente colaborativo, me descobrindo neste vasto universo da Tecnologia 💻💜.
 > ### [✨ Acesse meus projetos aqui ✨](https://github.com/stars/annaluizacamargo/lists/projetos)
 
 <br>
