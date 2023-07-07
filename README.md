@@ -1,6 +1,6 @@
-# Olá, me chamo *_Anna Luiza de Camargo Fistarol_*
+# Olá, sou a *_Anna Luiza_*
 
-É um prazer recebê-lo(a) aqui. Sou programadora / desenvolvedora, atuando com ênfase em desenvolvendo sites web visando atingir o melhor resultado possível atrelado com meus conhecimentos de UX Design, buscando novos desafios e melhorar minhas soft e hard skills, prezando por um bom ambiente colaborativo, me descobrindo neste vasto universo da Tecnologia 💻💜.
+É um prazer recebê-lo(a) aqui. Sou programadora / desenvolvedora em evolução contínua em prol de atingir o melhor resultado possível atrelado com meus conhecimentos de UX/UI Design, buscando novos desafios e melhorar minhas soft e hard skills, prezando por um bom ambiente colaborativo, me descobrindo neste vasto universo da Tecnologia 💻💜.
 > ### [✨ Acesse meus projetos aqui ✨](https://github.com/stars/annaluizacamargo/lists/projetos)
 
 <br>
@@ -14,21 +14,21 @@
   
   
 ## 🛠️ Minhas Skill's
-  > **ReactJS • JavaScript • CSS/SCSS • HTML • Figma • Git** <br>
-  > **Em estudo: TypeScript • PHP • MySQL** 
+  > **NextJS • ReactJS • TypeScript • JavaScript • Styled-components • CSS/SCSS • HTML • Figma • Git** <br>
+  > **Em estudo: Laravel/PHP • MySQL** 
 <div>
   <a href="https://github.com/annaluizacamargo">
     
-  ![logo-php](https://user-images.githubusercontent.com/100868704/224065156-4e3e3a0e-6394-4054-ab13-68d06cac7837.svg)
-  ![logo-mysql](https://user-images.githubusercontent.com/100868704/224065144-d48f4da1-25e8-4d6f-99f5-0101df0c5499.svg)
-  ![logo-react 1](https://user-images.githubusercontent.com/100868704/218358133-7e5bcdf6-c57f-4c8b-9c32-ce1417ea5b93.svg)
-  ![brand-javascript 1](https://user-images.githubusercontent.com/100868704/218358267-b46e966a-3fc6-439b-ac1e-caf61b086388.svg)
-  ![logo-sass](https://user-images.githubusercontent.com/100868704/224065178-80c87c85-bbe3-446a-9716-392f8f8daa44.svg)
-  ![logo-css3 1](https://user-images.githubusercontent.com/100868704/218358284-7b9e67aa-0a83-4bc6-957a-019a23ff822b.svg)
-  ![html5 1](https://user-images.githubusercontent.com/100868704/218358278-b5ecd208-b091-4442-989d-72bc7d0ef528.svg)
-  ![figma-logo-light 1](https://user-images.githubusercontent.com/100868704/218358295-526264d2-f303-445b-8e7f-814944c13f9a.svg)
-  ![git 1](https://user-images.githubusercontent.com/100868704/218358301-256ca99d-94f8-4c54-bcf2-233062c0685e.svg)
-
+  ![next-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/b76dda28-5b9d-4df6-a728-fad0b78048c1)
+  ![react-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/365c6279-f780-4db9-8d08-70ccfacc2ae7)
+  ![javascript-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/16893036-fff0-42d8-ba17-9b4af7556866)
+  ![sass-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/91555da7-ee31-4019-bbb6-a1f99d1b7091)
+  ![css-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/1d75fda2-e871-4b28-ac83-eab54c18e8b1)
+  ![html-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/5ca382e5-ef33-4b72-87d3-612eddc5814c)
+  ![git-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/dd81fec4-45fe-497f-94b7-e5504dfe46a8)
+  ![figma-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/3dd5175f-f24c-44eb-8681-35117613c481)
+  ![php-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/69781f38-10a3-4e99-bd98-5ba2011d8ba4)
+  ![sql-logo](https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/d3962ae8-8f6f-4cf3-a560-1329dab20749)
 </div>
 <br>
 
@@ -40,7 +40,7 @@
 </div>
   
 <div>
-  • Aspie e com AH/SD acadêmica, sou muito dedicada e adoro aprender novas coisas que estão dentro do meu hiperfoco.
+  • Autismo leve com AH/SD acadêmica, sou muito dedicada e adoro aprender novas coisas que estão dentro do meu hiperfoco.
   <br>
   • Já trabalhei na área da saúde como Enfermeira e Tutora Externa de Enfermagem, mas hoje sigo o que faz meu coração bater mais forte, que é a programação.
   <br>
@@ -52,4 +52,4 @@
 
 ## 💻 Forma de contato
 > <div align="center"><a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius:50px;" target="_blank"></a>  <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:50px" target="_blank"></a> <a href="https://www.instagram.com/annaluiza.711/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:50px;" target="_blank"></a> </div>
-> <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://user-images.githubusercontent.com/100868704/224066204-42339e10-f358-47a6-ab28-961547caa84d.jpg" style="border-radius:20px;"></a>
+> <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://github.com/annaluizacamargo/annaluizacamargo/assets/100868704/73aa0143-869a-49c2-b307-f27ed984c5be" style="border-radius:20px;"></a>
